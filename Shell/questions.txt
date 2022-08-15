@@ -1,0 +1,1 @@
+source /etc/profile     --- didn't work for me

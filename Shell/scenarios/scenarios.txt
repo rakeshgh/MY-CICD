@@ -1,0 +1,5 @@
+Eliminate duplicates from array
+Compounding interest calculator
+Reading input and displaying it
+Loop through all inputs passed and also displaying total number of inputs
+version increment

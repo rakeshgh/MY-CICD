@@ -1,0 +1,3 @@
+User:
+    Default users (eg: ubuntu, ec2-user,...etc) has sudo permissions.
+    root (sudo) user can change any user password. It also won't ask for password.
