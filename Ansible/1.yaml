@@ -1,0 +1,8 @@
+---
+- name: I am just going to display a message
+  become: no
+  hosts: all
+  tasks:
+    - name: Display a message
+      ansible.builtin.msg:
+        msg: "This is my first playbook"
